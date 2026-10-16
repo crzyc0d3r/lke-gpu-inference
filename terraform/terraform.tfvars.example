@@ -1,0 +1,4 @@
+# Set a version returned by: linode-cli lke versions-list
+kubernetes_version = "1.35"
+client_cidr        = "203.0.113.10/32"
+
